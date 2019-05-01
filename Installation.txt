@@ -1,4 +1,4 @@
 Installation of Ta-lib 64 bit package
 
 download the whl file from the site https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
-pip install install TA_Lib-0.4.17-cp37-cp37m-win_amd64.whl
+pip install TA_Lib-0.4.17-cp37-cp37m-win_amd64.whl
